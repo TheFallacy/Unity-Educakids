@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/WordQuiz/login.unity
+    guid: 3bf2f1404359c904981cba0c5caa9482
+  - enabled: 1
+    path: Assets/WordQuiz/menuSelect.unity
+    guid: 51ecda9cdfd16e44998de713494fe08f
+  - enabled: 1
+    path: Assets/WordQuiz/prototipoGame.unity
+    guid: 5f3010a3193a2024195d1194c43f08f5
+  - enabled: 1
+    path: Assets/WordQuiz/proximo.unity
+    guid: 1804b4248175766459ee4e6928777db7
+  - enabled: 1
+    path: Assets/WordQuiz/FirebaseLogin 1.unity
+    guid: 6f6753cd5422ad745b4babc5b3874484
+  m_configObjects: {}

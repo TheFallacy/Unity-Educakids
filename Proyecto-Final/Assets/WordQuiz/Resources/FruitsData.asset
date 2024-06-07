@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b762a7796d94449896cd40528add32, type: 3}
+  m_Name: FruitsData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: a860e4be93a14894596e401908db5316, type: 3}
+    answer: ardilla
+  - questionImage: {fileID: 21300000, guid: 753080e7bf4336e478458f369d5b7468, type: 3}
+    answer: ballena
+  - questionImage: {fileID: 21300000, guid: fdaac635bfecbbd46be270e5d5a6e017, type: 3}
+    answer: caballo
+  - questionImage: {fileID: 21300000, guid: 5a8c6acdd3db10b44b13ee39cb49dadb, type: 3}
+    answer: delfin
+  - questionImage: {fileID: 21300000, guid: 395fe8ab3a52dd64f8d3632fbd3d0f61, type: 3}
+    answer: erizo
+  - questionImage: {fileID: 21300000, guid: 84481c87684eb064ebf08e1260494ebe, type: 3}
+    answer: foca
+  - questionImage: {fileID: 21300000, guid: cd514e1317d44ce428b80bc318f0e8cb, type: 3}
+    answer: gorila
+  - questionImage: {fileID: 21300000, guid: 0f01bd2b3fe8a1c4ca712e82e8af5e8f, type: 3}
+    answer: iguana
+  - questionImage: {fileID: 21300000, guid: e510cb0103c6f4642917d6171c17413b, type: 3}
+    answer: jaguar
+  - questionImage: {fileID: 21300000, guid: 404cb1cf7fd85b247a1d5abaa60a7618, type: 3}
+    answer: koala
+  - questionImage: {fileID: 21300000, guid: 3b3e03a23f269a9418368e7c2fd04718, type: 3}
+    answer: leon
+  - questionImage: {fileID: 21300000, guid: 6c20e6d43dd80e94db404b7affb6e1b8, type: 3}
+    answer: mono
+  - questionImage: {fileID: 21300000, guid: 4934ed2787b8a7e44bd66208e9672444, type: 3}
+    answer: nutria
+  - questionImage: {fileID: 21300000, guid: 1bb1b438fc5d7994696135f081c45e3a, type: 3}
+    answer: oso
+    
+
+

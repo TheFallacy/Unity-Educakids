@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775433275719",
+    "project_id": "educakids-f6d7a",
+    "storage_bucket": "educakids-f6d7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775433275719:android:fa0c5d5232022b4dede462",
+        "android_client_info": {
+          "package_name": "com.fallacy.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-q4I3JT41dzPeWSb1ed2H1g-GGIGTZIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
